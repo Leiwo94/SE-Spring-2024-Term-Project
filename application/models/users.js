@@ -1,3 +1,4 @@
+// Author: Lei Woods
 const bcrypt = require('bcrypt');
 const db = require('../config/database');
 
