@@ -1,3 +1,4 @@
+// Author: Lei Woods
 const colors = require('colors');
 
 colors.setTheme({
