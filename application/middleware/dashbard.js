@@ -1,3 +1,4 @@
+// Author: Lei Woods
 const { usernameExists } = require('../models/users.js');
 const {getUserInfo, getUserBio} = require('./models/dashboard.js');
 const dashMiddleware = {};
