@@ -1,3 +1,4 @@
+// Author: Lei Woods
 const UserModel = require('../models/users');
 
 //username validation checking that first psotion is a letter and that username is alphanumperic
