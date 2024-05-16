@@ -1,3 +1,4 @@
+// Author: Lei Woods
 //pulls information from registration form for validation.
 const resgistrationForm=document.getElementById("userRegForm");
 const validate = (input, validators)=>{
