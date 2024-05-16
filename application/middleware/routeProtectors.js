@@ -1,3 +1,4 @@
+// Author: Lei Woods
 const { errorPrint, successPrint } = require('../helpers/debug/debugprinters');
 
 const routeProtectors = {};
